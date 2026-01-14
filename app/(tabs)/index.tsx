@@ -66,7 +66,7 @@ export default function HomeScreen() {
             end={{ x: 1, y: 1 }}
           >
             <ThemedText type="subtitle" style={styles.buttonText}>
-              Let's Go!
+              Let&apos;s Go!
             </ThemedText>
           </LinearGradient>
         </TouchableOpacity>
